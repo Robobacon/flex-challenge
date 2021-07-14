@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    color: white;
+    background-color: black;
+}
+
+#nology {
+    color: white;
+    background-color:green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+
+#links {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+
+    /* width: 200px; */
+    /* align-items: center; */
+}
