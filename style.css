@@ -21,3 +21,19 @@ header {
     /* width: 200px; */
     /* align-items: center; */
 }
+
+.flex {
+display: flex;
+justify-content: space-between;
+}
+
+#rhp {
+    border: 2px solid black;
+width: 300px;
+}
+#panels div {
+    display: flex;
+    border: 2px solid black;
+    width: 300px;
+    margin: 10px 0px;
+}
